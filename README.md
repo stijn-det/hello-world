@@ -1,3 +1,2 @@
 # hello-world
-Trying out github
-Hi. I'm just a 21-year old trying to learn coding.
+Hey there. Join me in my journey to learn coding as a 21-year old. 
